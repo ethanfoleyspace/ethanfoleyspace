@@ -11,37 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Earth and Space Science, York University, 2028 (expected)
+* B.ASc. in Civil Engineering, University of Ottawa, 2026
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2026: USRA Researcher
+  * Western University
+  * Project: Radar analysis of mars analogues
+  * Supervisor: Catherine Neish
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2025: Engineering Design Student
+  * Canadian Nuclear Labs
+  * Project: Design of a molten salt electrochemistry cell
+  * Supervisor: Hung Ha
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2024: Research Assistant
+  * Natural Resources Canada: CANMETEnergy Ottawa
+  * Project: Design of a hydrogen natural gas mixing setup
+  * Supervisor: Amr Daouk
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -57,8 +56,11 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
+ 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* University of Ottawa [Rocketry](https://uorocketry.ca/) Team,  Airframe co-lead, 2024-2026
+
+<!-- Need to add awards in the future -->
